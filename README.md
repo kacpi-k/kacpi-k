@@ -3,7 +3,7 @@
 <h2>🚀 Technologies and tools that I know</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,jwt,react,typescript,css,html,git,docker,sqlite,flutter,dart,firebase,&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,react,typescript,css,html,git,docker,sqlite,flutter,dart,firebase,&perline=14"/>
   </a>
 </p>
 
